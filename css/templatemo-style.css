@@ -36,7 +36,7 @@ html {
 }
 ::-webkit-scrollbar-thumb{
   border-radius: 10px;
-  background-color: #e86c3f;
+  background-color: #b637ab!important;;
   /* background-image: -webkit-linear-gradient(to right top, #fce50e, #fee74e, #ffea73, #feec94, #fdefb3); */
 }
 .page-content {
@@ -67,7 +67,7 @@ html {
 
 .section-heading h1 {
   font-size: 32px;
-  color: #e86c3f;
+  color: #b637ab;
       display: flex;
   margin-right: 50px;
   font-weight: bold;
@@ -91,7 +91,7 @@ html {
 .white-button a {
   font-size: 13px;
   font-weight: 600;
-  color: #e86c3f;
+  color: #b637ab;
   text-transform: capitalize;
   background-color: #fff;
   display: inline-block;
@@ -104,7 +104,7 @@ html {
 }
 
 .white-button a:hover {
-  background-color: #e86c3f;
+  background-color: #b637ab;
   color: #fff;
 }
 
@@ -113,7 +113,7 @@ html {
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #e86c3f;
+  background-color: #b637ab;
   display: inline-block;
   height: 44px;
   line-height: 44px;
@@ -125,7 +125,7 @@ html {
 
 .accent-button a:hover {
   background-color: #000;
-  color: #e86c3f;
+  color: #b637ab;
 }
 
 header {
@@ -158,7 +158,7 @@ header {
 	content: "";
 	width: 6px;
 	height: 72px;
-	background-color: #e86c3f;
+	background-color: #b637ab;
 	top: 10px;
 }
 .arlo_tm_title_holder h3{
@@ -336,7 +336,7 @@ header {
 }
 .arlo_tm_about_wrap .definition{margin-bottom: 15px;}
 .arlo_tm_about_wrap .definition p{color: #000;}
-.arlo_tm_about_wrap .definition p strong{color: #e86c3f}
+.arlo_tm_about_wrap .definition p strong{color: #b637ab}
 
 .arlo_tm_about_wrap .about_short_contact_wrap{
 	width: 100%;
@@ -406,7 +406,7 @@ header {
 .arlo_tm_about_wrap .buttons_wrap ul li a{
 	text-decoration: none;
     color: #fff;
-    background-color: #e86c3f;
+    background-color: #b637ab;
     font-weight: 600;
     padding: 12px 35px;
     border-radius: 3px;
@@ -672,7 +672,7 @@ header {
   width: 100%;
   height: 140px;
   line-height: 100px;
-  background-color: #e86c3f;
+  background-color: #b637ab!important;
   padding: 20px;
   text-align: center;
 }
@@ -687,7 +687,6 @@ header {
   height: 100px;
   width: 100%;
   display: inline-block;
-  border: 1px solid rgba(250,250,250,0.5);
 }
 
 .sidebar-navigation .logo em {
@@ -761,7 +760,7 @@ header {
   width: 30px;
 }
 .sidebar-navigation nav .active-section .circle{
-  background-color: #e86c3f;
+  background-color: #b637ab;
 }
 
 .sidebar-navigation .social-icons {
@@ -790,7 +789,7 @@ header {
 }
 
 .sidebar-navigation .social-icons li a:hover {
-  color: #e86c3f;
+  color: #b637ab;
 }
 
 
@@ -959,7 +958,7 @@ header {
 }
 
 #featured .owl-dots .active span {
-  background-color: #e86c3f!important;
+  background-color: #b637ab!important;
 }
 
 #featured .owl-dots button {
@@ -995,7 +994,7 @@ header {
 }
 
 #featured .owl-nav span:hover {
-  background-color: #e86c3f;
+  background-color: #b637ab;
   color: #fff;
 }
 
@@ -1088,7 +1087,7 @@ header {
 
 #projects .masonry .item img:hover {
   opacity: 0.5 ;
-  background-color: #e86c3f;
+  background-color: #b637ab;
 }
 
 
@@ -1119,7 +1118,7 @@ header {
 }
 
 .form-control:focus{
-  border: 1px solid #e86c3f!important;
+  border: 1px solid #b637ab!important;
 }
 
 #contact textarea {
@@ -1145,7 +1144,7 @@ header {
   font-weight: 600;
   color: #fff;
   text-transform: capitalize;
-  background-color: #e86c3f;
+  background-color: #b637ab;
   display: inline-block;
   height: 44px;
   line-height: 24px;
